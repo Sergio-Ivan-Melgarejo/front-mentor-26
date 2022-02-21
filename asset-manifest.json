@@ -1,16 +1,27 @@
 {
   "files": {
-    "main.css": "/front-mentor-26/static/css/main.68f5109d.css",
-    "main.js": "/front-mentor-26/static/js/main.fcbca024.js",
+    "main.css": "/front-mentor-26/static/css/main.48489913.css",
+    "main.js": "/front-mentor-26/static/js/main.44c18902.js",
     "static/js/787.3379c19f.chunk.js": "/front-mentor-26/static/js/787.3379c19f.chunk.js",
+    "static/media/logo-bonus.svg": "/front-mentor-26/static/media/logo-bonus.9bf8aeb80c2526dee7c67aa5c1b74ccc.svg",
+    "static/media/image-rules-bonus.svg": "/front-mentor-26/static/media/image-rules-bonus.513320fbf32ba9e4a81fba903a77b85f.svg",
     "static/media/logo.svg": "/front-mentor-26/static/media/logo.cdc4ae1d780e5a91d835661d552f5475.svg",
+    "static/media/image-rules.svg": "/front-mentor-26/static/media/image-rules.258b753fb6284dc8ae00c5b2fa7938c0.svg",
+    "static/media/icon-lizard.svg": "/front-mentor-26/static/media/icon-lizard.0f83914cca1adc9454d1bdceb17610b0.svg",
+    "static/media/icon-paper.svg": "/front-mentor-26/static/media/icon-paper.8b57a6b108c1b8ae82931a39b10f96a2.svg",
+    "static/media/icon-spock.svg": "/front-mentor-26/static/media/icon-spock.f4d7eee84cf50913d73967948d97d63a.svg",
+    "static/media/icon-scissors.svg": "/front-mentor-26/static/media/icon-scissors.3b1a5d7eb0b2f1fd3e955865ec04d9ed.svg",
     "index.html": "/front-mentor-26/index.html",
-    "main.68f5109d.css.map": "/front-mentor-26/static/css/main.68f5109d.css.map",
-    "main.fcbca024.js.map": "/front-mentor-26/static/js/main.fcbca024.js.map",
+    "static/media/icon-rock.svg": "/front-mentor-26/static/media/icon-rock.476e90a9646a87bb3645d2f09f4f7fba.svg",
+    "static/media/icon-close.svg": "/front-mentor-26/static/media/icon-close.bde602ecd1a4e55e0c27137ed651e027.svg",
+    "static/media/bg-pentagon.svg": "/front-mentor-26/static/media/bg-pentagon.1ad6d36532b75eb7d82cabe6e8d92aef.svg",
+    "static/media/bg-triangle.svg": "/front-mentor-26/static/media/bg-triangle.c0c30b562fdb087666594c1bc0d512f6.svg",
+    "main.48489913.css.map": "/front-mentor-26/static/css/main.48489913.css.map",
+    "main.44c18902.js.map": "/front-mentor-26/static/js/main.44c18902.js.map",
     "787.3379c19f.chunk.js.map": "/front-mentor-26/static/js/787.3379c19f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68f5109d.css",
-    "static/js/main.fcbca024.js"
+    "static/css/main.48489913.css",
+    "static/js/main.44c18902.js"
   ]
 }
