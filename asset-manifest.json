@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/front-mentor-26/static/css/main.994bb212.css",
+    "main.css": "/front-mentor-26/static/css/main.21a1dc06.css",
     "main.js": "/front-mentor-26/static/js/main.129a75c2.js",
     "static/js/787.3379c19f.chunk.js": "/front-mentor-26/static/js/787.3379c19f.chunk.js",
     "static/media/logo-bonus.svg": "/front-mentor-26/static/media/logo-bonus.9bf8aeb80c2526dee7c67aa5c1b74ccc.svg",
@@ -16,12 +16,12 @@
     "static/media/icon-close.svg": "/front-mentor-26/static/media/icon-close.bde602ecd1a4e55e0c27137ed651e027.svg",
     "static/media/bg-pentagon.svg": "/front-mentor-26/static/media/bg-pentagon.1ad6d36532b75eb7d82cabe6e8d92aef.svg",
     "static/media/bg-triangle.svg": "/front-mentor-26/static/media/bg-triangle.c0c30b562fdb087666594c1bc0d512f6.svg",
-    "main.994bb212.css.map": "/front-mentor-26/static/css/main.994bb212.css.map",
+    "main.21a1dc06.css.map": "/front-mentor-26/static/css/main.21a1dc06.css.map",
     "main.129a75c2.js.map": "/front-mentor-26/static/js/main.129a75c2.js.map",
     "787.3379c19f.chunk.js.map": "/front-mentor-26/static/js/787.3379c19f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.994bb212.css",
+    "static/css/main.21a1dc06.css",
     "static/js/main.129a75c2.js"
   ]
 }
